@@ -14,12 +14,14 @@ lewis lepton
 ---
 easy to install. simply place the `lestle_sublime` folder in your sublime packages folder - which is located [on mac]
 `HD/Users/userName/Library/Aplication Support/Sublime Text 3/Packages/User`
+![image](sublime.png)
 
 ***INSATLL VSCODE***
 ---
 easy to install. simply place the `lestle_vscode` folder in your vscode extensions folder - which is located [on mac]
 `HD/Users/userName/.vscode/extensions`
 please use the 'show & hide' below
+![image](vscode.png)
 
 ***INSTALL ATOM***
 ---
@@ -31,6 +33,7 @@ please use the 'show & hide' below
 ---
 easy to install. simply place the `.dvtcolortheme` in to your themes folder at
 `HD/Users/userName/Library/Developer/Xcode/UserData/FontAndColorThemes`
+![image](xcode.png)
 
 ***SHOW & HIDE***
 ---
@@ -39,5 +42,3 @@ you will have to 'show' hidden files on mac computers to get to the folder. so y
 
 then use this to hide again
 ```defaults write com.apple.finder AppleShowAllFiles -boolean false ; killall Finder```
-
-![image](snap.png)
