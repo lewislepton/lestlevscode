@@ -16,7 +16,7 @@ easy to install. simply place the `lestle_sublime` folder in your sublime packag
 `HD/Users/userName/Library/Aplication Support/Sublime Text 3/Packages/User`
 ![image](sublime.png)
 
-***INSATLL VSCODE***
+***INSTALL VSCODE***
 ---
 easy to install. simply place the `lestle_vscode` folder in your vscode extensions folder - which is located [on mac]
 `HD/Users/userName/.vscode/extensions`
