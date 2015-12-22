@@ -28,11 +28,12 @@ easy to install. simply place the `lestle_atom` folder in your vscode extensions
 please use the 'show & hide' below
 
 ***INSTALL XCODE***
-------
+---
 easy to install. simply place the `.dvtcolortheme` in to your themes folder at
 `HD/Users/userName/Library/Developer/Xcode/UserData/FontAndColorThemes`
 
 ***SHOW & HIDE***
+---
 you will have to 'show' hidden files on mac computers to get to the folder. so you can use this to show
 ```defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder```
 
