@@ -10,7 +10,7 @@ enjoy
 
 lewis lepton
 
-***INSATLL SUBLIME***
+***INSTALL SUBLIME***
 ---
 easy to install. simply place the `lestle_sublime` folder in your sublime packages folder - which is located [on mac]
 `HD/Users/userName/Library/Aplication Support/Sublime Text 3/Packages/User`
