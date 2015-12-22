@@ -1,0 +1,32 @@
+// {
+//   "name": "lestle",
+//   "theme": "syntax",
+//   "version": "0.0.1",
+//   "description": "perfectly balanced theme for light or dark fans",
+//   "keywords": [
+//     "syntax",
+//     "theme"
+//   ],
+//   "repository": "https://github.com/lewislepton/lestle-vscode",
+//   "license": "MIT",
+//   "engines": {
+//     "atom": ">=1.0.0 <2.0.0"
+//   }
+// }
+
+
+{
+	"name": "lestle",
+	"version": "0.0.1",
+	"publisher": "Lewis Lepton",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "lestle",
+				"uiTheme": "vs-dark",
+				"path": "./styles/lestle.tmTheme"
+			}
+		]
+	}
+}
