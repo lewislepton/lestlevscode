@@ -28,6 +28,7 @@ please use the 'show & hide' below
 easy to install. simply place the `lestle_atom` folder in your vscode extensions folder - which is located [on mac]
 `HD/Users/userName/.atom/packages`
 please use the 'show & hide' below
+![image](atom.png)
 
 ***INSTALL XCODE***
 ---
