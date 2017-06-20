@@ -23,6 +23,8 @@ easy to install. simply place the `lestle_vscode` folder in your vscode extensio
 please use the 'show & hide' below
 ![image](vscode.png)
 
+there is a newer 2017 version, which will fix problems for vscode now. this is for versions of vscode >= 1.12. installation is the same
+
 ***INSTALL ATOM***
 ---
 easy to install. simply place the `lestle_atom` folder in your vscode extensions folder - which is located [on mac]
