@@ -40,8 +40,14 @@ easy to install. simply place the `.dvtcolortheme` in to your themes folder at
 
 ***SHOW & HIDE***
 ---
+the easier high sierra+ way
+simply press:
+```shift + cmd + .```
+to show hidden files
+then press again to hide to hidden files
+
+the old 'pre high sierra way'
 you will have to 'show' hidden files on mac computers to get to the folder. so you can use this to show
 ```defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder```
-
 then use this to hide again
 ```defaults write com.apple.finder AppleShowAllFiles -boolean false ; killall Finder```
