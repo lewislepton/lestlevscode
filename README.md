@@ -44,7 +44,7 @@ the easier high sierra+ way<br>
 simply press:<br>
 ```shift + cmd + .```<br>
 to show hidden files<br>
-then press again to hide to hidden files<br>
+then press again to hide again<br>
 <br>
 the old 'pre high sierra way'<br>
 you will have to 'show' hidden files on mac computers to get to the folder. so you can use this to show<br>
