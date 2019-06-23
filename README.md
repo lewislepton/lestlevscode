@@ -1,53 +1,31 @@
-# lestle theme collection
-lovely simple and clear theme for - sublime/atom/vscode/xcode
+# Lestle
 
-rather than the 'too dark' or even 'too bright' of most color schemes. i have been always after something which can suit both parties.
-so rather than switching themes, its easy to stick with one
+![screenshot](image/screenshot.png)
 
-not too dark, not too bright... just right ;)
+***LESTLE*** is a simple & minimal theme for the eyes.
 
-enjoy
+Rather than go for something too dark, or too bright, we have something in the middle. It's just feels right ;)
 
-lewis lepton
+# Features
+• Easy on the eyes colors.  
+• Sidebar/Gutter colors<br>
+  Green - ***Added***  
+  Purple - ***Modified***  
+  Red - ***Deleted***  
+  Grey - ***Highlighted named item***<br>
+• Smooth line number viewing<br>
+• Light line viewing markers<br>
+• Looks lovely
 
-***INSTALL SUBLIME***
----
-easy to install. simply place the `lestle_sublime` folder in your sublime packages folder - which is located [on mac]
-`HD/Users/userName/Library/Aplication Support/Sublime Text 3/Packages/User`
-![image](sublime.png)
+I plan to have additions to this theme & fix colors when needed/found that I may have missed. Things would change from time to time. But nothing drastic ;)
 
-***INSTALL VSCODE***
----
-easy to install. simply place the `lestle_vscode` folder in your vscode extensions folder - which is located [on mac]
-`HD/Users/userName/.vscode/extensions`
-please use the 'show & hide' below
-![image](vscode.png)
+Enjoy, have phün & happy coding
 
-there is a newer 2017 version, which will fix problems for vscode now. this is for versions of vscode >= 1.12. installation is the same
+[Lewis Lepton](https://lewislepton.com)
 
-***INSTALL ATOM***
----
-easy to install. simply place the `lestle_atom` folder in your vscode extensions folder - which is located [on mac]
-`HD/Users/userName/.atom/packages`
-please use the 'show & hide' below
-![image](atom.png)
+Any problems, by all means go & make an issue
 
-***INSTALL XCODE***
----
-easy to install. simply place the `.dvtcolortheme` in to your themes folder at
-`HD/Users/userName/Library/Developer/Xcode/UserData/FontAndColorThemes`
-![image](xcode.png)
+*The themes for XCode, Sublime & Atom are still available - but are now stored in the `oldbranch` branch. I dont plan to update these any time soon*
 
-***SHOW & HIDE***
----
-the easier high sierra+ way<br>
-simply press:<br>
-```shift + cmd + .```<br>
-to show hidden files<br>
-then press again to hide again<br>
-<br>
-the old 'pre high sierra way'<br>
-you will have to 'show' hidden files on mac computers to get to the folder. so you can use this to show<br>
-```defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder```<br>
-then use this to hide again<br>
-```defaults write com.apple.finder AppleShowAllFiles -boolean false ; killall Finder```
+# Change Log
+- *1.0.0* - updated original to be more bad ass

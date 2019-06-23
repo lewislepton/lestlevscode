@@ -1,16 +1,17 @@
 {
 	"name": "Lestle",
 	"displayName": "Lestle Theme",
-	"description": "not too dark, not too bright. just right",
+	"description": "Not too dark, not too bright. Just right",
 	"version": "1.0.0",
 	"publisher": "lewislepton",
 	"engines": {
-		"vscode": "^1.5.0"
+			"vscode": "^1.33.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/lewislepton/lestle-theme-collection"
+		"url": "https://github.com/lewislepton/lestlevscode"
 	},
+	"icon": "image/icon.png",
 	"categories": [
 		"Themes"
 	],
@@ -19,7 +20,7 @@
 			{
 				"label": "Lestle",
 				"uiTheme": "vs-dark",
-				"path": "./themes/lestle.tmTheme"
+				"path": "./themes/lestle.json"
 			}
 		]
 	}
