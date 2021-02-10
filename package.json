@@ -3,13 +3,13 @@
 	"displayName": "Lestle Theme",
 	"description": "Not too dark, not too bright. Just right",
 	"version": "1.0.0",
-	"publisher": "lewislepton",
+	"publisher": "lewlepton",
 	"engines": {
 			"vscode": "^1.33.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/lewislepton/lestlevscode"
+		"url": "https://github.com/lewlepton/lestlevscode"
 	},
 	"icon": "image/icon.png",
 	"categories": [
